@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on <img src="https://i.loli.net/2020/07/21/LUPYXK6w4aRenJE.png" alt="drawing" width="20"/>
-- 🌱 I’m currently learning Swift.
+- 🔭 I’m currently working on <img src="https://i.loli.net/2020/07/21/LUPYXK6w4aRenJE.png" alt="drawing" width="10"/>
+- 🌱 I’m currently learning Swift / DYLD / Mach-O.
 - 😄 Fun fact: 💖 🐶 💖 🐱
