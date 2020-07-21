@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ByteDance.
+- 🔭 I’m currently working on 🏡.
 - 🌱 I’m currently learning Swift.
 - 😄 Fun fact: 💖 🐶 💖 🐱
