@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on <img src="https://github.com/tsuiyuenhong/tsuiyuenhong/blob/master/icon.png" width="14"/>
+- 🔭 I’m currently working on ?
 - 🌱 I’m currently learning Swift / DYLD / Mach-O.
 - 😄 Fun fact: 💖 🐶 💖 🐱
