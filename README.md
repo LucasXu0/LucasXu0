@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ?
-- 🌱 I’m currently learning Swift / dyld / Mach-O / Block.
+- 🌱 I’m currently learning ...
+  - [ ] Swift
+  - [ ] OpenGL / Metal
+  - [x] dyld
+  - [ ] Mach-O
+  - [x] Block
 - 😄 Fun fact: 💖 🐶 💖 🐱
