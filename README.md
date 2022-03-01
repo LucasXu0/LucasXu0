@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ?
 - 🌱 I’m currently learning ...
-  - [ ] Swift
-  - [ ] OpenGL / Metal
+  - [ ] rust
+  - [ ] flutter
+  - [x] Swift
+  - [x] OpenGL / Metal
   - [x] dyld
-  - [ ] Mach-O
+  - [x] Mach-O
   - [x] Block
 - 😄 Fun fact: 💖 🐶 💖 🐱
