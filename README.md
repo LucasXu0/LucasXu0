@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Appflowy.
 - 🌱 I’m currently learning ...
-  - [ ] Rust
+  - [ ] Rust ...
   - [x] Flutter
   - [x] iOS
   - [x] OpenGL / Metal
